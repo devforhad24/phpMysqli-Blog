@@ -33,7 +33,7 @@
             }else{
                 return false;
             }
-        }
+        }   /* end's method */
 
         /* Insert Query */
         public function insert($query){
@@ -44,7 +44,7 @@
             }else{
                 return false;
             }
-        }
+        }   /* end's method */
 
         /* Update Query */
         public function update($query){
@@ -55,7 +55,7 @@
             }else{
                 return false;
             }
-        }
+        }   /* end's method */
 
         /* Delete Query */
         public function delete($query){
@@ -66,7 +66,7 @@
             }else{
                 return false;
             }
-        }
+        }   /* end's method */
     }
 
 ?>
